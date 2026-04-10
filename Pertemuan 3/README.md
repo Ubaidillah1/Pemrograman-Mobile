@@ -1,6 +1,7 @@
 # Laporan Praktikum 01 : Pengantar Pemrograman Mobile
 
 # Praktikum 1:
+![alt text](image.png)
 # Langkah 2
 Jika kode ini dieksekusi, program akan menghasilkan Compile Error (kesalahan penyusunan kode). Program tidak akan menampilkan "Test2" atau "Test2 again"
 Bahasa pemrograman (seperti Dart, Java, atau C#) bersifat case-sensitive (peka terhadap huruf besar dan kecil).
