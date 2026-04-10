@@ -21,4 +21,4 @@ tidak error, tapi dia mengprint angka dari 33 sampai ke 77
 masih error, karena belum mendeklarasikan tipe data variabel tersebut dan disini dart sangat sensitif dengan huruf besar dan kecil sehingga error
 # Langkah 3
 masih error, Karena kata kunci If, Else If dan variabel Index tidak dikenali oleh dart. dan tidak bisa dirun karena logika continue menggunakan operator OR (||) maka akan selalu bernilai true. akibatnya, perintah print(index) tidak pernah jalan
-![alt text](image-6.png)
+[alt text](image-6.png)
